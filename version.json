@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "pck_url": "https://github.com/SEU_USUARIO/nbov-releases/releases/download/v1.0.0/NBOV.pck",
-  "exe_url": null,
+  "version": "0.0.1",
+  "pck_url": "https://github.com/CaioTito/nbov-releases/releases/download/nbov/NBOV.pck",
+  "exe_url": https://github.com/CaioTito/nbov-releases/releases/download/nbov/NBOV.exe,
   "notes": "Versão inicial"
 }
