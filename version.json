@@ -1,6 +1,6 @@
 {
-  "version": "0.0.2",
-  "pck_url": "https://github.com/CaioTito/nbov-releases/releases/download/V.0.0.2/NBOV.pck",
-  "exe_url": "https://github.com/CaioTito/nbov-releases/releases/download/V.0.0.2/NBOV.exe",
-  "notes": "Versão correcao IP"
+  "version": "0.0.3",
+  "pck_url": "https://github.com/CaioTito/nbov-releases/releases/download/V0.0.3/NBOV.pck",
+  "exe_url": "https://github.com/CaioTito/nbov-releases/releases/download/V0.0.3/NBOV.exe",
+  "notes": "Versão com contas"
 }
