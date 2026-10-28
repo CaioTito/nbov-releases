@@ -1,9 +1,9 @@
 {
   "jogo": "NBOV",
-  "versao": "0.0.6-rc1",
-  "gerado_em": "2026-10-25T22:26:56+00:00",
+  "versao": "0.0.6-rc2",
+  "gerado_em": "2026-10-28T13:35:37+00:00",
   "executavel": "NBOV.exe",
-  "base_url": "https://github.com/CaioTito/nbov-releases/releases/download/v0.0.6-rc1/",
+  "base_url": "https://github.com/CaioTito/nbov-releases/releases/download/v0.0.6-rc2/",
   "arquivos": [
     {
       "caminho": "NBOV.exe",
@@ -12,8 +12,8 @@
     },
     {
       "caminho": "NBOV.pck",
-      "tamanho": 79643152,
-      "sha256": "cae95c0fac6d8ade74e47bec75dd2467a58bddf15183190f6e8715ce1a62eec3"
+      "tamanho": 95281880,
+      "sha256": "72617d96e6e680d2e3118721d33a422c7517390645576bbafcda38a34d308395"
     },
     {
       "caminho": "nbov_servidor.ini",
